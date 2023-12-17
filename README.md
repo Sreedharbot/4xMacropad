@@ -41,6 +41,19 @@ As all the keyboard designs share the same MCU and programming button design, th
 
 4. Wait for the upload to complete
 
+### For Windows
+
+   This is a new discovery for me – for Windows OS, the macro-pad functions only with the installation of the correct driver. Therefore, I suggest users install this software to flash Arduino code into their macro-pad.
+
+   WCHIP Studio - [Click Here to install the driver](https://www.wch-ic.com/downloads/WCHISPTool_Setup_exe.html).
+
+   After installing the driver. Verify your sketch in arduino and locate ".hex" file from arduino. 
+
+   Follow as per the video to flash the chip with your program.
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nREU6xqUHoM?si=CiKblMyHOcqaFubx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### License
 
 Software: MIT License
