@@ -51,7 +51,7 @@ As all the keyboard designs share the same MCU and programming button design, th
 
    Follow as per the video to flash the chip with your program.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/nREU6xqUHoM?si=CiKblMyHOcqaFubx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nREU6xqUHoM?si=CiKblMyHOcqaFubx" title="YouTube video player" frameborder="0" allow="accelerometer autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### License
